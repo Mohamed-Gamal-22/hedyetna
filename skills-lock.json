@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "skills": {
+    "arabic-rtl-best-practices": {
+      "source": "alMubarmij/Arabic-AI-Skills",
+      "commit": "08d3b9d14c2d1719c0b96f703bced8dccfe2076a",
+      "sourceType": "github",
+      "skillPath": "arabic-rtl-best-practices/SKILL.md",
+      "computedHash": "73463cdd1884854e6e5acbc0220837693d582c68000b2bacb3cd91f5eabddbbe"
+    },
+    "codebase-design": {
+      "source": "mattpocock/skills",
+      "commit": "abeeaf95660ba9e8b7c753eb38f441ca707a8823",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/codebase-design/SKILL.md",
+      "computedHash": "d40f025dc1b0f2020663260f38f2bcb8d6ed3523afb11e5fda624b01238677e8"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "commit": "57217cf86ba38148a57af9e90d14a4c049558330",
+      "sourceType": "github",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "computedHash": "7bc223e2aafbdbf6e50ea243ba6ef67fe432bb069ab439fea0390795dac0bf7f"
+    },
+    "responsive-design": {
+      "source": "wshobson/agents",
+      "commit": "42203085cfc5736204bf0f6d436dff7e1da0bf3f",
+      "sourceType": "github",
+      "skillPath": "plugins/ui-design/skills/responsive-design/SKILL.md",
+      "computedHash": "3ff2c1acd7067b5fbd30dc370364054f7d470d26e288cf3d454fed457478cdc0"
+    }
+  }
+}
